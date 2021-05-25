@@ -49,4 +49,3 @@ I have included the major steps & evaluations for the project in this blog. For 
 
 
 <!------------------------------------ FOOTER -------------------------------->
-[1]
