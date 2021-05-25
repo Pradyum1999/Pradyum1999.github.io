@@ -1,0 +1,89 @@
+# Configs for pwills.com
+
+title: "pradyumsoni.com"
+name: "Pradyum Soni"
+email: pradyummathriya@gmail.com
+url: "https://pradyumsoni.com/"
+repository: "pradyum1999/pradyum1999.github.io"
+
+include:
+  - _pages
+  - assets
+  - index.html
+exclude:
+  - TODO.md
+  - README.md
+  - "*.org"
+  - "*ltximg*"
+
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+# Build settings
+markdown: kramdown
+theme: "minimal-mistakes-jekyll"
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "aqua"
+  
+# settings for author profile
+author:
+  name   : "Pradyum Soni"
+  avatar : "/assets/images/headshot.jpg"
+  bio    : "IIT Bombay'21 Graduate, Deep Learning Enthusiast, Theatre Artist, Fountain-pen afficionado, Novel-Reader"
+  location: "India"
+  github : Pradyum1999
+  linkedin: pradyumsoni
+  email  : pradyummathriya@gmail.com
+
+# # comments by disqus
+#comments:
+ # provider: "disqus"
+  #disqus:
+   # shortname: "pwills-com"
+
+#analytics:
+ # provider: "google"
+  #google:
+   # tracking_id: "UA-116208936-1"
+
+
+# pagination for blog page
+paginate: 3 # number of posts to show
+paginate_path: /page:num/
+
+# default YAML front matter
+defaults:
+  # all
+  - scope:
+      path: ""
+    values:
+      layout: single
+      mathjax: true
+      author_profile: true
+      class: wide
+      title: " "
+      title_separator: "|"
+  # posts
+  - scope:
+      type: posts
+    values:
+      toc: true
+      toc_label: "Contents"
+      read_time: false
+      comments: true
+  # portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      author_profile: false
+      excerpt: ""
+      sidebar:
+        nav: "portfolio"
+
+# collections
+collections:
+  portfolio:
+    output: true
