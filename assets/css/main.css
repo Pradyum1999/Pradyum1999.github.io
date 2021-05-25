@@ -2452,7 +2452,7 @@ a.reversefootnote:hover { text-decoration: underline; }
 
 @media (min-width: 64em) { .page { float: right; width: calc(100% - 200px); padding-left: 50px;} }
 @media (min-width: 80em) { .page { width: calc(100% - 300px); padding-right: 300px; } }
-.page .page__inner-wrap { float: left; margin-left: 0; margin-right: 0; width: 100%; clear: both; }
+.page .page__inner-wrap { float: left; margin-left: 0; margin-right: 0; width: 120%; clear: both; }
 .page .page__inner-wrap .page__content, .page .page__inner-wrap .page__meta, .page .page__inner-wrap .comment__date, .page .page__inner-wrap .page__share { position: relative; float: left; margin-left: 0; margin-right: 0; width: 100%; clear: both; }
 
 .page__title { margin-top: 0; line-height: 1; }
