@@ -22,5 +22,3 @@ Site is built in jekyll on top of [Minimal Mistakes][1]. Uses images from
 [2]: https://unsplash.com/
 
 [4]: http://www.pradyumsoni.com
-# pradyum1999.github.io
-# pradyum1999.github.io
