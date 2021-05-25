@@ -24,7 +24,7 @@ feature_row:
 
   - image_path: assets/images/self.jpg
     alt: "Self Projects"
-    title: "Self Projects (DWSIM)"
+    title: "Self Projects (ML)"
     excerpt: "Some notewrothy projects on ML & ML web app deployment"
     url: "/portfolio/design-project/"
     btn_label: "Read More"
