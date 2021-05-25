@@ -39,9 +39,9 @@ author:
 
 # # comments by disqus
 #comments:
- # provider: "disqus"
-  #disqus:
-   # shortname: "pwills-com"
+ #provider: "disqus"
+ #disqus:
+  # shortname: "pradyumsoni"
 
 #analytics:
  # provider: "google"

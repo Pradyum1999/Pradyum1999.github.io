@@ -4,38 +4,29 @@ main:
     url: /
   - title: "About"
     url: /about/
-  - title: "Portfolio"
+  - title: "Projects"
     url: /portfolio/
+  - title: "Contact"
+    url: /contact/
   - title: "Resume"
     url: /assets/docs/resume.pdf
-  #- title: "Blog"
-  #   url: /blog/
 
-# sidebar for portfolio
+# sidebar for projects
 portfolio:
   - title: "Projects"
     children:
 #      - title: "Machine Learning on AWS"
 #        url: /portfolio/coming/
-      - title: "Anomaly Detection in Social Networks"
-        url: /portfolio/social-networks/
-      - title: "NetComp: Python Network Comparison"
-        url: /portfolio/netcomp/
-      - title: "Automatic Genre Classification"
-        url: /portfolio/genre_cls/
+      - title: "State Estimation Project"
+        url: /portfolio/state-estimation/
+      - title: "Design Project"
+        url: /portfolio/design-project/
+      - title: "Self Projects"
+        url: /portfolio/self-projects/
 
   - title: "Professional"
     children:
-      - title: "DeskAI"
-        url: /portfolio/deskai
-      - title: "Smart Climate Index"
-        url: /portfolio/sclm
+      - title: "Nuclei Technologies"
+        url: /portfolio/nuclei-technologies/
 
-  - title: "Research"
-    children:
-      - title: "Dynamic Anomaly Detection"
-        url: /portfolio/networks/
-      - title: "Statistics of Entanglement"
-        url: /portfolio/qm_stats/
-      - title: "Magnetic Waves and Noise"
-        url: /portfolio/waves/
+

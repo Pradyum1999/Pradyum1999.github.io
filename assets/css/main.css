@@ -1575,7 +1575,7 @@ a:focus { /* Default*/ outline: thin dotted #e67e22; /* Webkit*/ outline: 5px au
 /* ========================================================================== STYLE RESETS ========================================================================== */
 * { box-sizing: border-box; }
 
-html { /* apply a natural box layout model to all elements */ box-sizing: border-box; background-color: #f0fff0; font-size: 15px; /* changed these three to change overall font size */ -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; text-align: justify;}
+html { /* apply a natural box layout model to all elements */ box-sizing: border-box; background-color: #f0fff0; font-size: 15px; /* changed these three to change overall font size */ -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;}
 @media (min-width: 48em) { html { font-size: 15px; } }
 @media (min-width: 64em) { html { font-size: 16px; /* this one seems to do everything */ } }
 @media (min-width: 80em) { html { font-size: 17px; } }
@@ -2567,7 +2567,6 @@ a.reversefootnote:hover { text-decoration: underline; }
 .archive__item-teaser img { width: 100%; }
 
 .archive__item:hover .archive__item-teaser { box-shadow: 0 0 10px rgba(0, 0, 0, 0.25); }
-.archive__item:hover .archive__item-title { text-decoration: underline; }
 
 /* List view ========================================================================== */
 .list__item .page__meta, .list__item .comment__date { margin: 0 0 4px; }
