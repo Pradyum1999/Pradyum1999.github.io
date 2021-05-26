@@ -3,7 +3,8 @@ classes: wide
 header:
   overlay_image: /assets/images/tools.jpg
 permalink: /portfolio/index.html
-date: 2021-05-15
+date: 2021-05-25
+layout: collection
 
 feature_row:
   - title: "State Estimation"
