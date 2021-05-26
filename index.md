@@ -22,7 +22,7 @@ classes: wide
 * **Inter-IIT** (Dec'19) Overall First-runner up; First position in Improv. I was the part of core team, leading dramatics contingent, the largest contingent from IITB (60 strong).
 {: .text-justify}
 
-I am Pradyum Soni, a senior undergraduate at IIT Bombay. I'll be graduating with a B.Tech. in Chemical Engineering in July '21. Throughout my stay at IITB, I have explored several engineering disciplines and have become highly interested in Artificial Intelligence and Data Science. I have done several projects and internship that has equipped me to step into the industry. 
+I am Pradyum Soni, a senior undergraduate at **IIT Bombay**. I'll be graduating with a B.Tech. in Chemical Engineering in July '21. Throughout my stay at IITB, I have explored several engineering disciplines and have become highly interested in Artificial Intelligence and Data Science. I have done several projects and internship that has equipped me to step into the industry. 
 {: .text-justify}
 
 During my stay at IITB, I was part of various institute bodies like 
