@@ -1,7 +1,6 @@
 ---
 header:
   overlay_image: /assets/images/code.jpg
-  caption: "Photo credit: [**Marcus Spiske**](https://unsplash.com)"
 permalink: /portfolio/state-estimation/
 date: 2021-05-21
 toc: true
