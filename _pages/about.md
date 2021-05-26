@@ -7,6 +7,8 @@ permalink: /about/
 
 # About Me
 
+<div class=text-justify>
+  
 I am Pradyum Soni, a senior undergraduate at IIT Bombay. I'll be graduating with a B.Tech. in Chemical Engineering in July '21. Throughout my stay at IITB, I have explored several engineering disciplines and have become highly interested in Artificial Intelligence and Data Science. I have done several projects and internship that has equipped me to step into the industry.
 
 During my stay at IITB, I was part of various institute bodies like 
@@ -14,4 +16,4 @@ During my stay at IITB, I was part of various institute bodies like
 
 My father is a goldsmith & mother is a house-maker. On this note, I am proud to share that I am going to be first-generation IITian from my family.
 
-
+</div>
