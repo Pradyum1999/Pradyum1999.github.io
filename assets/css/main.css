@@ -2623,7 +2623,7 @@ a.reversefootnote:hover { text-decoration: underline; }
 .sidebar { clear: both; margin-bottom: 1em; -webkit-transform: translate3d(0, 0, 0); transform: translate3d(0, 0, 0); opacity: 85%}
 .sidebar::after { clear: both; content: ""; display: table; }
 @media (max-width: 64em) { .sidebar { /* fix z-index order of follow links */ position: relative; z-index: 10; } }
-@media (min-width: 64em) { .sidebar { float: left; padding-left: 70px; width: calc(200px - 1em); -webkit-transition: opacity 0.2s ease-in-out; transition: opacity 0.2s ease-in-out; }
+@media (min-width: 64em) { .sidebar { float: left; width: calc(200px - 1em); -webkit-transition: opacity 0.2s ease-in-out; transition: opacity 0.2s ease-in-out; }
   .sidebar:hover { opacity: 1; }
   .sidebar.sticky { overflow-y: auto; /* calculate height of nav list */ /*height: calc(100vh - 90px - 2em); */} }
 @media (min-width: 80em) { .sidebar { width: calc(300px - 1em); } }
