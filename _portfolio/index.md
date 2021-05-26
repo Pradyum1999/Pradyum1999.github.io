@@ -7,18 +7,21 @@ date: 2021-05-26
 
 feature_row:
   - title: "State Estimation"
+    image_path: assets/images/E.png
     excerpt: "Use Kalman Filter to estimate unmeasured states."
     url: "/portfolio/state-estimation/"
     btn_label: "Read More"
     btn_class: "btn--primary"	
 
   - title: "Design Project"
-    excerpt: "R&D on ETO plant setup; Present end-to-end solution w.r.t plant development"
+    image_path: assets/images/design-project.png 
+    excerpt: "R&D on ETO plant setup; Presented end-to-end solution w.r.t plant development"
     url: "/portfolio/design-project/"
     btn_label: "Read More"
     btn_class: "btn--primary"	
 
   - title: "Self Projects"
+    image_path: assets/images/self.png
     excerpt: "Some notewrothy projects on ML & ML web app deployment"
     url: "/portfolio/design-project/"
     btn_label: "Read More"

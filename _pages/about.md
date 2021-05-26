@@ -1,5 +1,5 @@
 ---
-title: " "
+title: "Website"
 header:
   overlay_image: /assets/images/utah.jpg
 permalink: /about/

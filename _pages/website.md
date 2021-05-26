@@ -1,5 +1,7 @@
 ---
 title:  "Building a Personal Site with Jekyll & Minimal Mistakes"
+#layout: home
+permalink: /posts/website/
 category: posts
 date: 2021-5-25
 excerpt: "A guide detailing my process for building this website using the static site generator Jekyll and the theme Minimal Mistakes"

@@ -2,14 +2,22 @@
 main:
   - title: "Home"
     url: /
-  - title: "About"
-    url: /about/
+#  - title: "Posts"
+ #   url: /posts/
   - title: "Projects"
     url: /portfolio/
   - title: "Contact"
     url: /contact/
   - title: "Resume"
     url: /assets/docs/resume.pdf
+
+
+# sidebar for blog
+posts:
+  - title: "Blog"
+    children:
+      - title: "Building personal website"
+        url: /posts/website/
 
 # sidebar for projects
 portfolio:
