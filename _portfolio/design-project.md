@@ -2,6 +2,7 @@
 header:
   overlay_image: /assets/images/research/header.jpg
 permalink: /portfolio/design-project/
+date: 2021-05-26
 toc: true
 toc_label: "Contents"
 ---
