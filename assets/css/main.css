@@ -2628,7 +2628,7 @@ a.reversefootnote:hover { text-decoration: underline; }
   .sidebar.sticky { overflow-y: auto; /* calculate height of nav list */ /*height: calc(100vh - 90px - 2em); */} }
 @media (min-width: 80em) { .sidebar { width: calc(300px - 1em); } }
 .sidebar h2, .sidebar h3, .sidebar h4, .sidebar h5, .sidebar h6 { margin-bottom: 0; font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif; }
-.sidebar p, .sidebar li { font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif; font-size: 0.75em; line-height: 1.5; }
+.sidebar p, .sidebar li { font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif; font-size: 0.75em; line-height: 1.5; text-align: left; padding-right: 100px;}
 .sidebar img { width: 100%; }
 
 .sidebar__right { margin-bottom: 1em; }
