@@ -22,7 +22,7 @@ feature_row:
 
   - title: "Self Projects"
     image_path: assets/images/self.png
-    excerpt: "Some notewrothy projects on ML & ML web app deployment"
+    excerpt: "Some noteworthy projects on ML & ML web app deployment"
     url: "/portfolio/design-project/"
     btn_label: "Read More"
     btn_class: "btn--primary"	
