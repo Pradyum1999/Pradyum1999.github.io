@@ -17,40 +17,40 @@ This project was a part of core requirement (CL452). In a team of 5 we were requ
 
 ## Steps
 1. Market Survey
-![1](/assets/images/1.png)
+![1](/assets/images/1.PNG)
 
 2. Flow-sheet development
-![2](/assets/images/2.png)
+![2](/assets/images/2.PNG)
 
 3. Mass Balance
-![3](/assets/images/3.png)
+![3](/assets/images/3.PNG)
 
 * Stage-1 Evaluation (Report, Presentation. Improve on prof comments)
 
 4. Steady State flowsheet simulation
-![4](/assets/images/4.png)
+![4](/assets/images/4.PNG)
 
 5. Parametric Study of operating parameters. Get the optimum operating conditions.
-![5](/assets/images/5.png)
+![5](/assets/images/5.PNG)
 
 6. Report Update
-![report](/assets/images/6.png)
+![report](/assets/images/6.PNG)
 
 * Stage-2 Evaluation (Report, Presentation. Improve on prof comments)
 
 7. Equipment Sizing
-![7](/assets/images/7.png)
+![7](/assets/images/7.PNG)
 
 8. Economics
-![8](/assets/images/8.png)
+![8](/assets/images/8.PNG)
 
 9. Detailed design of 1 equipment
-![9](/assets/images/9.png)
+![9](/assets/images/9.PNG)
 
 * Stage-3 Evaluation (Report, Presentation. Improve on prof comments)
 
 10. Enivronmental Impact
-![10](/assets/images/10.png)
+![10](/assets/images/10.PNG)
 
 11. Final report submission [available here][1]
 
