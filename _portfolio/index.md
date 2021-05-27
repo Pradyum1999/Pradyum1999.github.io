@@ -1,7 +1,7 @@
 ---
 classes: wide
 header:
-  overlay_image: /assets/images/tools.jpg
+  overlay_image: /assets/images/utah.jpg
 permalink: /portfolio/index.html
 date: 2021-05-25
 layout: collection
