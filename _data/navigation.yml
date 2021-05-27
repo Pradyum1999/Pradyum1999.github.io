@@ -32,9 +32,9 @@ portfolio:
       - title: "Self Projects"
         url: /portfolio/self-projects/
 
-  - title: "Professional"
-    children:
-      - title: "Nuclei Technologies"
-        url: /portfolio/nuclei-technologies/
+ # - title: "Professional"
+  #  children:
+   #   - title: "Nuclei Technologies"
+    #    url: /portfolio/nuclei-technologies/
 
 
