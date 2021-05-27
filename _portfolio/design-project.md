@@ -34,7 +34,7 @@ This project was a part of core requirement (CL452). In a team of 5 we were requ
 ![5](/assets/images/5.png)
 
 6. Report Update
-![6](/assets/images/6.png)
+![report](/assets/images/6.png)
 
 * Stage-2 Evaluation (Report, Presentation. Improve on prof comments)
 
