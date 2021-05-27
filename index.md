@@ -19,7 +19,7 @@ _For mobile users: You can see my projects by clicking on the button at top-righ
 # About Me
 
 **Achievements**: 
-* Selected for PGP programme at **IIM Indore** (May'21) but decided to opt out to gain job experience & financial strength. 
+* Selected for PGP programme at **IIM Indore** (May'21) but decided to opt out due to personal constraints. 
 * **Inter-IIT** (Dec'19) Overall First-runner up; First position in Improv. I was the part of core team, leading dramatics contingent, the largest contingent from IITB (60 strong).
 {: .text-justify}
 
