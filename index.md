@@ -20,7 +20,6 @@ _For mobile users: You can see my projects by clicking on the button at top-righ
 
 **Achievements**: 
 * Selected for PGP programme at **IIM Indore** (May'21) but decided to opt out to gain job experience & financial strength. 
-* **Roll of Honor** (May'21), H9: The highest award that can be conferred in culturals genre at Hostel 9. Students considered: passing out batch. 
 * **Inter-IIT** (Dec'19) Overall First-runner up; First position in Improv. I was the part of core team, leading dramatics contingent, the largest contingent from IITB (60 strong).
 {: .text-justify}
 
