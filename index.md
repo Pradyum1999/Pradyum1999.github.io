@@ -13,7 +13,7 @@ excerpt: "Thoughts on Artificial Intelligence, Engineering & Life."
 classes: wide
 
 ---
-_For mobile users: You can see my projects by clicking on the 'three-line' button on top-right corner_
+_For mobile users: You can see my projects by clicking on the button at top-right corner._
 
 # About Me
 
