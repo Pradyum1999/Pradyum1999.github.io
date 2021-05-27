@@ -1,53 +1,61 @@
 ---
 header:
-  overlay_image: /assets/images/research/header.jpg
+    overlay_image: /assets/images/dp.jpg
 permalink: /portfolio/design-project/
 date: 2021-05-27
 toc: true
 toc_label: "Contents"
 ---
 
-# Anomaly Detection in Social Networks
+# Design Project: -
+Guide Prof.: R.K.Malik & Jayesh Bellure
 
-*(Code for this project is available on [GitHub][1].)*
+*(Final report, ppt, dwsim file, weekly tasks for this project is available on [drive][1].)*
 
-This project looks at ways to automatically detect important changes in social
-networks. We use a dataset collected in a [French primary school][2]; RFID tags were
-used to map face-to-face contact bewtween students. This give us a social
-network that changes over minutes, rather than the weeks or years it takes to
-see significant change in online social networks.
+## Problem Statement: 
+This project was a part of core requirement (CL452). In a team of 5 we were required to do RnD on Ethylene Oxide plant setup. 
 
-## The Data
+## Steps
+1. Market Survey
+![1](/assets/images/1.png)
 
-As we can see below, the graph changes significantly over time. There are three
-distinct phases. In class, the students mostly remain in clusters (the circles
-represent individual classrooms). During recess, the class groups hold together
-somewhat, but there is much contact between the classes. In lunch, the classroom
-communities almost entirely dissolve, leaving us with a graph that looks almost
-entirely random.
+2. Flow-sheet development
+![2](/assets/images/2.png)
 
-![Primary School Graphs](/assets/images/research/class_graphs.png)
+3. Mass Balance
+![3](/assets/images/3.png)
 
-## The Approach
+* Stage-1 Evaluation (Report, Presentation. Improve on prof comments)
 
-Turns out that a very good way to compare the graphs is to treat each edge as a
-1\\(\Omega\\) resistor, and measure the resistance between vertices. Comparison
-of this resistance structure *between* graphs then quantifies how similar or
-dissimilar they are in their overall structure.
+4. Steady State flowsheet simulation
+![4](/assets/images/4.png)
 
-The results of this comparison can be seen below. The resistance distance does a
-remarkably good job of detecting important structural changes in the graph, and
-signals the structural transitions between class, lunch and recess.
+5. Parametric Study of operating parameters. Get the optimum operating conditions.
+![5](/assets/images/5.png)
 
-![Resistance Distance](/assets/images/social.png)
+6. Report Update
+![6](/assets/images/6.png)
 
-## More Analysis
+* Stage-2 Evaluation (Report, Presentation. Improve on prof comments)
 
-If you're hungry for more theoretical analysis of the resistance distance, see
-my paper [on the arXiv][3].
+7. Equipment Sizing
+![7](/assets/images/7.png)
+
+8. Economics
+![8](/assets/images/8.png)
+
+9. Detailed design of 1 equipment
+![9](/assets/images/9.png)
+
+* Stage-3 Evaluation (Report, Presentation. Improve on prof comments)
+
+10. Enivronmental Impact
+![10](/assets/images/10.png)
+
+11. Final report submission [available here][1]
+
+* Final evaluation
+
+<!------------------------------------ FOOTER -------------------------------->
 	
-[1]: https://github.com/peterewills/primary-school
-
-[2]: http://www.sociopatterns.org/datasets/primary-school-temporal-network-data/
-	
-[3]: https://arxiv.org/abs/1707.07362
+[1]: https://drive.google.com/drive/folders/1NIfYUMsutJVUBj3UmWgcHyYgwqb4I8kn?usp=sharing
