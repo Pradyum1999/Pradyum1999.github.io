@@ -10,7 +10,7 @@ toc_label: "Contents"
 # State Estimation: Python Project. 
 Guide Professor: Mani Bhushan
 
-**_Code for this project available on Github. _** [here](ttps://github.com/Pradyum1999/CL653---State-Estimation-Project/blob/main/CL653_Report.ipynb)
+Code for this project available on Github: [here](ttps://github.com/Pradyum1999/CL653---State-Estimation-Project/blob/main/CL653_Report.ipynb)
 
 ## Introduction
 The Williams–Otto reactor is one unit of the Williams–Otto plant model (Williams and
