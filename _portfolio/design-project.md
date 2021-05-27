@@ -25,7 +25,7 @@ This project was a part of core requirement (CL452). In a team of 5 we were requ
 3. Mass Balance
 ![3](/assets/images/3.PNG)
 
-* Stage-1 Evaluation (Report, Presentation. Improve on prof comments)
+### Stage-1 Evaluation (Report, Presentation. Improve on prof comments)
 
 4. Steady State flowsheet simulation
 ![4](/assets/images/4.PNG)
@@ -36,7 +36,7 @@ This project was a part of core requirement (CL452). In a team of 5 we were requ
 6. Report Update
 ![report](/assets/images/6.PNG)
 
-* Stage-2 Evaluation (Report, Presentation. Improve on prof comments)
+### Stage-2 Evaluation (Report, Presentation. Improve on prof comments)
 
 7. Equipment Sizing
 ![7](/assets/images/7.PNG)
@@ -47,14 +47,14 @@ This project was a part of core requirement (CL452). In a team of 5 we were requ
 9. Detailed design of 1 equipment
 ![9](/assets/images/9.PNG)
 
-* Stage-3 Evaluation (Report, Presentation. Improve on prof comments)
+### Stage-3 Evaluation (Report, Presentation. Improve on prof comments)
 
 10. Enivronmental Impact
 ![10](/assets/images/10.PNG)
 
 11. Final report submission [available here][1]
 
-* Final evaluation
+### Final evaluation
 
 <!------------------------------------ FOOTER -------------------------------->
 	
