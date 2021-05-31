@@ -87,3 +87,9 @@ defaults:
 collections:
   portfolio:
     output: true
+    
+#analytics
+analytics:
+  provider: "google"
+  google:
+    tracking_id: "UA-198198679-1"
