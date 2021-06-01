@@ -77,7 +77,7 @@ F1 Score was not up to mark. Accuracy Score: 0.75. Went ahead with Attempt 2.
 
 I finished this project in Mar'20 after finishing my _IBM ML specilisation_ (Kindly see resume).
 * Link to the app: [App Link](http://insurance-cost-model.herokuapp.com/); 
-* If above link not working please copy-paste: http://insurance-cost-model.herokuapp.com/
+* If above link not working please copy-paste in your browser: http://insurance-cost-model.herokuapp.com/
 * Link to the full repo: [github](https://github.com/Pradyum1999/Medical_Insurance_Cost_Model_Deployment)
 
 ## Introduction
