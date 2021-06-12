@@ -20,7 +20,7 @@ _For mobile users: You can see my projects by clicking on the button at top-righ
 
 **Achievements**: 
 * Incoming Consultant at EXL Services, Gurgaon.
-* Roll of Honor'21 (Hostel 9): Highest award in culturals genre given to any student from Hostel 9 in each batch.
+* Roll of Honor'21 (Hostel 9): Highest award in culturals genre, given to only 1 student by Hostel 9, in each batch.
 * Selected for PGP programme at **IIM Indore** (May'21) but decided to opt out due to personal constraints. 
 * **Inter-IIT** (Dec'19) Overall First-runner up; First position in Improv. I was the part of core team, leading dramatics contingent, the largest contingent from IITB (60 strong).
 {: .text-justify}
