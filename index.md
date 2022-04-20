@@ -19,9 +19,10 @@ _For mobile users: You can see my projects by clicking on the button at top-righ
 # About Me
 
 **Achievements**: 
-* **Roll of Honor'21 (H9)**: Highest award in culturals genre, given to only 1 student by Hostel 9, in each batch.
+* **Roll of Honor'21 (H9)**: Highest award in culturals genre, given to only 1 student by Hostel 9, in each batch
 *  Performed in PAF’19, ’20; First in MDGC’19; **Written & Directed** MDGC’20 
-* **Inter-IIT** (Dec'19) Overall First-runner up; First position in Improv. I was the part of core team, leading dramatics contingent, the largest contingent from IITB (60 strong).
+* **Inter-IIT** (Dec'19) Overall First-runner up; First position in Improv. I was the part of core team, leading dramatics contingent, the largest contingent from IITB (60 strong)
+* Part of H9 council in my 2nd year (25 members), won **Overall General Championship**, competing with all Hostels in Tech, Culturals, Sports GCs. 💥
 {: .text-justify}
 
 I am Pradyum Soni, a senior undergraduate at **IIT Bombay**. I'll be graduating with a B.Tech. in Chemical Engineering in July '21. Throughout my stay at IITB, I have explored several engineering disciplines and have become highly interested in Artificial Intelligence and Data Science. I have done several projects and internship that has equipped me to step into the industry. 
