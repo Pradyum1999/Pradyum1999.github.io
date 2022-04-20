@@ -8,7 +8,7 @@ header:
 
 
   overlay_image: /assets/images/cover2.jpg
-excerpt: "Thoughts on Artificial Intelligence, Engineering & Life."
+excerpt: "Thoughts on Product Management, AI & Engineering"
 
 classes: wide
 
@@ -18,22 +18,20 @@ _For mobile users: You can see my projects by clicking on the button at top-righ
 
 # About Me
 
-**Achievements**: 
-* **Roll of Honor'21 (H9)**: Highest award in culturals genre, given to only 1 student by Hostel 9, in each batch
-*  Performed in PAF’19, ’20; First in MDGC’19; **Written & Directed** MDGC’20 
-* **Inter-IIT** (Dec'19) Overall First-runner up; First position in Improv. I was the part of core team, leading dramatics contingent, the largest contingent from IITB (60 strong)
-* Part of H9 council in my 2nd year (25 members), won **Overall General Championship**, competing with all Hostels in Tech, Culturals, Sports GCs. 💥
-
-{: .text-justify}
-
-I am Pradyum Soni, a senior undergraduate at **IIT Bombay**. I'll be graduating with a B.Tech. in Chemical Engineering in July '21. Throughout my stay at IITB, I have explored several engineering disciplines and have become highly interested in Artificial Intelligence and Data Science. I have done several projects and internship that has equipped me to step into the industry. 
+I am Pradyum Soni, currently working as an Associate Product Manager @ Gupshup. I work on AI Bots product line, it involves roadmap to sign-off of AI Bots.
 {: .text-justify}
 
 During my stay at IITB, I was part of various institute bodies like 
 [SARC](https://sarc-iitb.org/), [Hostel 9 Council](https://www.google.com/search?q=h9+iitb&client=ubuntu&hs=la0&channel=fs&sxsrf=ALeKk03EoGf09ncCA-BFdoGPkTEdI0asng%3A1621969134627&ei=7kitYOzdJa2T4-EPy5uN4A0&oq=h9+iitb&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyCAguEMcBEK8BOgcIABBHELADUNg3WPw7YIQ-aAFwAngAgAHMAYgBxgiSAQUwLjUuMZgBAKABAaoBB2d3cy13aXrIAQjAAQE&sclient=gws-wiz&ved=0ahUKEwjsjOzwweXwAhWtyTgGHctNA9wQ4dUDCA0&uact=5), [Mood Indigo](https://en.wikipedia.org/wiki/Mood_Indigo_(festival)) & [E-cell](https://www.ecell.in/2020/). 
 {: .text-justify}
 
-I was also actively involved with the dramatics clubs of IITB, Fourthwall. In my pre-final year, I was the contingent leader for dramatics responsible to build 5 teams (60 students strong) & represent IIT Bombay at Inter-IIT cultural meet. We finished first runner-up, so it was an exhilarating experience. This experience played a major role in shaping my leadership & teamwork outlook. 
+You can have a look at my projects in the "Projects" section. My most noteworthy extracurricular achievements:-
+
+**Achievements**: 
+* **Roll of Honor'21 (H9)**: Highest award in culturals genre, given to only 1 student by Hostel 9, in each batch
+* First in MDGC’19; **Written & Directed** MDGC’20: Performed in PAF’19, ’20 
+* **Inter-IIT** (Dec'19) Overall First-runner up; First position in Improv. I was the part of core team, leading dramatics contingent, the largest contingent from IITB (60 strong)
+* Part of H9 council in my 2nd year (25 members), won **Overall General Championship**, competing with all Hostels in Tech, Culturals, Sports GCs. 💥
 {: .text-justify}
 
 My father is a goldsmith & mother is a house-maker. On this note, I am proud to share that I am going to be first-generation IITian from my family. 
