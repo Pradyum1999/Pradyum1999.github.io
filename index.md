@@ -34,5 +34,5 @@ You can have a look at my projects in the "Projects" section. My most noteworthy
 * Part of H9 council in my 2nd year (25 members), won **Overall General Championship**, competing with all Hostels in Tech, Culturals, Sports GCs. 💥
 {: .text-justify}
 
-My father is a goldsmith & mother is a house-maker. On this note, I am proud to share that I am going to be first-generation IITian from my family. 
+My father is a goldsmith & mother is a house-maker. On this note, I am proud to share that I am a first-generation IITian from my family. 
 {: .text-justify}
