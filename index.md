@@ -38,3 +38,5 @@ You can have a look at my projects in the "Projects" section. My most noteworthy
 My father is a goldsmith & mother is a house-maker. On this note, I am proud to share that I am a first-generation IITian from my family. 
 {: .text-justify}
 
+<script src="https://app.wotnot.io/chat-widget/6jb4GWf424ka092443692550uqURcri2.js" defer></script>
+
