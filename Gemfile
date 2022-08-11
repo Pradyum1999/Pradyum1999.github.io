@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 # Theme
 gem "jekyll-remote-theme"
-gem "midnight"
+gem "jekyll-theme-midnight"
 gem "jekyll-include-cache"
 gem "jekyll-paginate"
 gem "nokogiri", "~> 1.10.10"
