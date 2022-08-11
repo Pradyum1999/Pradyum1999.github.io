@@ -23,9 +23,8 @@ plugins:
 
 # Build settings
 markdown: kramdown
-theme: "minimal-mistakes-jekyll"
-remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "aqua"
+theme: "midnight"
+remote_theme: "pages-themes/midnight@v0.2.0"
   
 # settings for author profile
 author:
