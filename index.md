@@ -19,7 +19,7 @@ _For mobile users: You can see my projects by clicking on the button at top-righ
 
 # About Me
 
-I am Pradyum Soni, currently working as an Associate Product Manager @ Gupshup. I work on AI Bots product line, it involves roadmap to sign-off of AI Bots.
+I am Pradyum Soni, graduate MSIS student at Kelley School of Business.  
 {: .text-justify}
 
 During my stay at IITB, I was part of various institute bodies like 
