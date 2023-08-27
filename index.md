@@ -21,7 +21,7 @@ _For mobile users: You can see my projects by clicking on the button at top-righ
 
 I am Pradyum Soni, graduate MSIS student at Kelley School of Business. 
 
-During my stay at IITB, I was part of various institute bodies like 
+During my undergrad, I was part of various institute bodies like 
 [SARC](https://sarc-iitb.org/), [Hostel 9 Council](https://www.google.com/search?q=h9+iitb&client=ubuntu&hs=la0&channel=fs&sxsrf=ALeKk03EoGf09ncCA-BFdoGPkTEdI0asng%3A1621969134627&ei=7kitYOzdJa2T4-EPy5uN4A0&oq=h9+iitb&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyCAguEMcBEK8BOgcIABBHELADUNg3WPw7YIQ-aAFwAngAgAHMAYgBxgiSAQUwLjUuMZgBAKABAaoBB2d3cy13aXrIAQjAAQE&sclient=gws-wiz&ved=0ahUKEwjsjOzwweXwAhWtyTgGHctNA9wQ4dUDCA0&uact=5), [Mood Indigo](https://en.wikipedia.org/wiki/Mood_Indigo_(festival)) & [E-cell](https://www.ecell.in/2020/). 
 {: .text-justify}
 
